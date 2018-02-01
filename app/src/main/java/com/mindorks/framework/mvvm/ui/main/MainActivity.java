@@ -318,6 +318,11 @@ public class MainActivity extends BaseActivity<ActivityMainBinding, MainViewMode
         return 0;
     }
 
+    //my test commit function2
+    public int getInt2() {
+        return 0;
+    }
+
     @Override
     public AndroidInjector<Fragment> supportFragmentInjector() {
         return fragmentDispatchingAndroidInjector;
