@@ -314,7 +314,7 @@ public class MainActivity extends BaseActivity<ActivityMainBinding, MainViewMode
     }
 
     //my test commit function
-    public int getInt() {
+    public int getInt1() {
         return 0;
     }
 
